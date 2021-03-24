@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/AlexBen92/shop.git/static/css/main.790ddf4c.chunk.css",
+    "main.js": "/AlexBen92/shop.git/static/js/main.ee5fde8b.chunk.js",
+    "main.js.map": "/AlexBen92/shop.git/static/js/main.ee5fde8b.chunk.js.map",
+    "runtime-main.js": "/AlexBen92/shop.git/static/js/runtime-main.164dbadf.js",
+    "runtime-main.js.map": "/AlexBen92/shop.git/static/js/runtime-main.164dbadf.js.map",
+    "static/css/2.8af765a2.chunk.css": "/AlexBen92/shop.git/static/css/2.8af765a2.chunk.css",
+    "static/js/2.a7a0b953.chunk.js": "/AlexBen92/shop.git/static/js/2.a7a0b953.chunk.js",
+    "static/js/2.a7a0b953.chunk.js.map": "/AlexBen92/shop.git/static/js/2.a7a0b953.chunk.js.map",
+    "index.html": "/AlexBen92/shop.git/index.html",
+    "precache-manifest.5928fd2fe7788141fac236fc91e42aab.js": "/AlexBen92/shop.git/precache-manifest.5928fd2fe7788141fac236fc91e42aab.js",
+    "service-worker.js": "/AlexBen92/shop.git/service-worker.js",
+    "static/css/2.8af765a2.chunk.css.map": "/AlexBen92/shop.git/static/css/2.8af765a2.chunk.css.map",
+    "static/css/main.790ddf4c.chunk.css.map": "/AlexBen92/shop.git/static/css/main.790ddf4c.chunk.css.map",
+    "static/js/2.a7a0b953.chunk.js.LICENSE.txt": "/AlexBen92/shop.git/static/js/2.a7a0b953.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AlexBen92/shop.git/static/media/bbb.0210e597.jpg",
+    "static/media/dslr.jpg": "/AlexBen92/shop.git/static/media/dslr.59731bae.jpg",
+    "static/media/iphone.jpg": "/AlexBen92/shop.git/static/media/iphone.8d318e4a.jpg",
+    "static/media/microphone.jpg": "/AlexBen92/shop.git/static/media/microphone.e7bdef88.jpg",
+    "static/media/perfume.jpg": "/AlexBen92/shop.git/static/media/perfume.92ef6ab7.jpg",
+    "static/media/rings.jpg": "/AlexBen92/shop.git/static/media/rings.986af371.jpg",
+    "static/media/shoes.jpg": "/AlexBen92/shop.git/static/media/shoes.f30fe0b2.jpg",
+    "static/media/watch.jpg": "/AlexBen92/shop.git/static/media/watch.b4e58e91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.164dbadf.js",
+    "static/css/2.8af765a2.chunk.css",
+    "static/js/2.a7a0b953.chunk.js",
+    "static/css/main.790ddf4c.chunk.css",
+    "static/js/main.ee5fde8b.chunk.js"
+  ]
+}
